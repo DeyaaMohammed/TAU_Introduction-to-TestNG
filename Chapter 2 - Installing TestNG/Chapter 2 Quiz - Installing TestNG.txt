@@ -1,0 +1,19 @@
+1. What does IDE stand for?
+[ ] a- Integrated Design Environment
+[ ] b- Integrated Design Edition
+[x] c- Integrated Development Environment
+[ ] d- Integrated Development Edition
+
+2. Which IDE is NOT compatible with TestNG?
+[x] a- Microsoft Visual Studio
+[ ] b- NetBeans
+[ ] c- Eclipse
+[ ] d- IntelliJ IDEA
+
+3. TestNG can be integrated with build tools such as Ant and Maven.
+[x] a- True
+[ ] b- False
+
+4. Using an IDE is the only way to set up TestNG.
+[ ] a- True
+[x] b- False

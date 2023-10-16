@@ -1,0 +1,52 @@
+1. Which is NOT a purpose of data-driven testing?
+[ ] a- Ability to pass an unlimited number of values to a test method
+[ ] b- Allow the test method to be invoked with different data sets
+[x] c- Verify the name of a test method
+
+2. Which annotation is used to supply test data to a test method?
+[ ] a- BeforeTest
+[ ] b- BeforeMethod
+[x] c- DataProvider
+[ ] d- TestData
+
+3. The test data for data-driven testing is provided via a _______?
+[x] a- Method
+[ ] b- Class
+[ ] c- XML file
+[ ] d- Jar file
+
+4. Which data structure holds test data for data-driven testing?
+[ ] a- List
+[x] b- Array
+[ ] c- Map
+[ ] d- Tree
+
+5. Test data must be in the form of which data type?
+[ ] a- String
+[ ] b- Integer
+[ ] c- Boolean
+[x] d- Any data type
+
+6. What is the purpose of the dataProvider attribute?
+[x] a- To specify the name of the source that will provide the test data
+[ ] b- To specify the test data itself
+[ ] c- To specify the order in which the test data should be processed
+[ ] d- To specify the data file
+
+7. How does TestNG handle the execution of data-driven testing?
+[ ] a- All data entries are combined and executed as a single test
+[x] b- Each data entry is considered a separate test
+[ ] c- Each data entry is dependent upon the preceding entry
+[ ] d- Multiple entries are not supported
+
+8. The data provider and test method must exist within the same class.
+[ ] a- True
+[x] b- False
+
+9. A data provider can only be used by one test method.
+[ ] a- True
+[x] b- False
+
+10. A data provider annotation is required to have a name.
+[ ] a- True
+[x] b- False

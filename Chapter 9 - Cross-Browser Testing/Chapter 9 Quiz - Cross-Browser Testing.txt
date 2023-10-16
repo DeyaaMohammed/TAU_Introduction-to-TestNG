@@ -1,0 +1,23 @@
+1. What is the purpose of the `<parameter>` tag within the XML file?
+[x] a- To specify the name and value of a variable to be used within tests
+[ ] b- To specify which browser to run against
+[ ] c- To specify which tests should be run
+[ ] d- To specify the location of the test data
+
+2. If `<parameter>` tag with the same name appears within both the suite and the test, what will occur?
+[ ] a- The value specified within the suite will be used
+[x] b- The value specified within the test will be used
+[ ] c- Both values will be used by executing the test twice
+[ ] d- An error will occur
+
+3. When should you use a parameter at the suite level?
+[x] a- When the parameter will be used by multiple tests
+[ ] b- When the parameter’s value will need to change within every test
+[ ] c- When the parameter’s value is unknown until runtime
+[ ] d- When the parameter will be used by multiple suites
+
+4. How does the value from a `<parameter>` tag get passed to the test method?
+[ ] a- Via the DataProvider annotation
+[x] b- Via the Parameters annotation
+[ ] c- Via the Variable annotation
+[ ] d- By default. No annotation required.

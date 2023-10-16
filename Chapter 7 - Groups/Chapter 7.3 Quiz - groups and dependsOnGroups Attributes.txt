@@ -1,0 +1,67 @@
+1. What is dependency testing in TestNG?
+[ ] a- Validating the maven or gradle dependencies that need to be added to an automation project
+[ ] b- Validating the third party products that an application depends upon
+[x] c- When two or more actions, tasks, or functions depend on the order of their methods
+[ ] d- When a dependent application is assumed to be tested before the current application under test
+
+2. If a test fails, what is the default status of other tests that depend on the failed test?
+[ ] a- Failed
+[ ] b- Passed
+[x] c- Skipped
+[ ] d- Ignored
+
+3. What is a cascade of failures?
+[ ] a- When at least two failures cause the remaining tests to fail
+[x] b- When one failure causes the remaining tests to fail
+[ ] c- When five skips cause a test to fail
+[ ] d- None of the above
+
+4. dependsOnMethods is a(n)
+[ ] a- Test annotation
+[ ] b- Configuration annotation
+[x] c- Attribute
+[ ] d- Method
+
+5. How do you specify which methods a test should depend on?
+[x] a- By method names
+[ ] b- By method annotations
+[ ] c- By method priority
+[ ] d- By method link
+
+6. A test can only depend on one method?
+[ ] a- True
+[x] b- False
+
+7. Which xml tag can you use to prevent a test from executing?
+[ ] a- <skip>
+[x] b- <exclude>
+[ ] c- <ignore>
+[ ] d- <block>
+
+8. If a <run> tag is empty, which of the following will occur?
+[x] a- All tests within scope will be executed regardless of groups
+[ ] b- No groups will be executed
+[ ] c- Only tests that are not a part of a group will be executed
+[ ] d- An error will occur
+
+9. What does the group attribute add to a list?
+[x] a- Test methods
+[ ] b- Variables
+[ ] c- Test results
+[ ] d- Classes
+
+10. Members of a group cannot belong to any other groups.
+[ ] a- True
+[x] b- False
+
+11. Which of the following is able to depend on groups?
+[x] a- Test methods
+[ ] b- Other groups
+[ ] c- Classes
+[ ] d- Suites
+
+12. Which of the following allow the execution of groups at runtime?
+[ ] a- XML file
+[ ] b- Command line
+[ ] c- Ant
+[x] d- All of the above

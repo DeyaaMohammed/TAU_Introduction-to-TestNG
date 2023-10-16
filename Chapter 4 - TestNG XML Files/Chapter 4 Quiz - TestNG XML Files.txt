@@ -1,0 +1,29 @@
+1. What’s the purpose of a TestNG xml file?
+[x] a- It is used to store data about the tests to execute
+[ ] b- It enables the tests to run on continuous integration
+[ ] c- It is used to install TestNG
+[ ] d- It specifies the configurations
+
+2. A <class> tag can contain one or more _____ tags.
+[ ] a- <suite>
+[x] b- <methods>
+[ ] c- <test>
+[ ] d- <class>
+
+3. A <test> tag can contain one or more _____ tags.
+[ ] a- <suite>
+[ ] b- <methods>
+[ ] c- <test>
+[x] d- <class>
+
+4. Which tag appears first in a TestNG xml file?
+[x] a- <suite>
+[ ] b- <methods>
+[ ] c- <test>
+[ ] d- <class>
+
+5. Which tag can contain one or more <include> tags?
+[ ] a- <suite>
+[x] b- <methods>
+[ ] c- <test>
+[ ] d- <class>

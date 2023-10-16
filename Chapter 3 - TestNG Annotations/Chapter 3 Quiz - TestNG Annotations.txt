@@ -1,0 +1,55 @@
+1. Which of these denotes an annotation?
+[ ] a- Exclamation Mark (!)
+[x] b- At Symbol (@)
+[ ] c- Percent Sign (%)
+[ ] d- Hyphen (-)
+
+2. Which of the following is an example of a configuration annotation?
+[ ] a- An annotation that begins with Config
+[x] b- An annotation that begins with Before
+[ ] c- An annotation that begins with DataProvider
+[ ] d- An annotation that begins with Test
+
+3. Which of the following is an example of a post-condition annotation?
+[ ] a- Finally
+[x] b- AfterSuite
+[ ] c- Previously
+[ ] d- BeforeMethod
+
+4. Annotations must be placed in the order you would like them to be executed.
+[ ] a- True
+[x] b- False
+
+5. Which annotation has the highest rank?
+[x] a- BeforeSuite
+[ ] b- BeforeMethod
+[ ] c- BeforeTest
+[ ] d- BeforeClass
+
+6. Which annotation is executed immediately before a test method is executed?
+[x] a- BeforeMethod
+[ ] b- BeforeTest
+[ ] c- BeforeClass
+[ ] d- BeforeSuite
+
+7. Which of these determines the number of times a method that is annotated as AfterClass will be executed?
+[ ] a- The number of tests executed within a class
+[ ] b- The number of tests executed within a suite
+[x] c- The number of classes executed within a suite
+[ ] d- The total number of classes within a project
+
+8. When are methods that are annotated as AfterSuite executed?
+[x] a- After all test methods are executed
+[ ] b- After each individual test method is executed
+[ ] c- After a class of test methods are executed
+[ ] d- After the first test of the suite fails
+
+9. What is the difference between AfterTest and AfterMethod annotations?
+[ ] a- AfterTest runs after each method that is annotated as Test. AfterMethod runs after every method even if there is no annotation
+[x] b- AfterTest runs after all methods that are annotated as Test. AfterMethod runs after each method that is annotated as Test
+[ ] c- AfterTest and AfterMethod are synonymous and both work the same
+[ ] d- AfterTest runs if the test passes. AfterMethod runs if the test fails
+
+10. Multiple methods within the same class can be annotated with the same annotation.
+[x] a- True
+[ ] b- False

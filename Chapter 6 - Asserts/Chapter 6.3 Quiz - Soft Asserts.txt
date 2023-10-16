@@ -1,0 +1,65 @@
+1. What is the purpose of assertions?
+[x] a- To verify if a test passed or failed
+[ ] b- To specify the order the test should be executed in
+[ ] c- To catch any exceptions that may be thrown during the test
+[ ] d- To group tests within a suite
+
+2. Which assertion method should be used to check if a condition is positive?
+[ ] a- checkTrue
+[ ] b- verifyTrue
+[x] c- assertTrue
+[ ] d- isTrue
+
+3. Which assertion method should be used to check for equality?
+[x] a- assertEquals
+[ ] b- verifyEquals
+[ ] c- checkEquals
+[ ] d- isEqual
+
+4. Which assertion method verifies that an object is not null?
+[ ] a- checkForNull
+[x] b- assertNotNull
+[ ] c- verifyNullFalse
+[ ] d- isNotNull
+
+5. Which one of the following is NOT an argument for an assertion method?
+[ ] a- Expected result
+[ ] b- Actual result
+[ ] c- Message
+[x] d- Test name
+
+6. What is AssertJUnit?
+[x] a- A TestNG class that enables JUnit assertions to continue to work if there is a migration to TestNG
+[ ] b- A JUnit class containing all assertion methods
+[ ] c- A Junit package that can be installed separately and integrated with TestNG
+[ ] d- A utility class that automatically asserts all of your test methods without any extra code added to the tests
+
+7. When is the assertion message presented to the user?
+[x] a- If the assertion fails
+[ ] b- If the assertion passes
+[ ] c- If the assertion is skipped
+[ ] d- If the assertion is executed
+
+8. What is a hard assert?
+[ ] a- An assertion that skips any tests that have duplicate assertions
+[x] b- An assertion that stops execution of the current annotation upon failure
+[ ] c- An assertion that stops execution of the entire test suite upon failure
+[ ] d- An assertion that verifies hard-coded values only
+
+9. What is a soft assert?
+[x] a- An assertion that still continues on to the next assertion even upon failure
+[ ] b- An assertion that skips the verification in case of error
+[ ] c- An assertion that verifies boolean values only
+[ ] d- An assertion that prevents the test from completing
+
+10. Is it recommended to use hard asserts or soft asserts for test automation?
+[ ] a- hard asserts
+[ ] b- soft asserts
+[ ] c- neither
+[x] d- both
+
+11. The assertAll method is used with_____?
+[ ] a- hard asserts
+[x] b- soft asserts
+[ ] c- neither
+[ ] d- both

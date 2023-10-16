@@ -1,0 +1,29 @@
+1. What does TestNG stand for?
+[ ] a- Test New Generation
+[ ] b- Test Next General
+[x] c- Test Next Generation
+[ ] d- Test New General
+
+2. What is a test framework?
+[ ] a- A structure for creating web applications
+[x] b- A pattern for writing and running test scripts
+[ ] c- A structure for unit testing
+[ ] d- A pattern for updating test scripts
+
+3. Which answer is true about the xUnit family of frameworks?
+[x] a- xUnit is a name for a compilation of Unit Testing Frameworks
+[ ] b- xUnit is a name for all Test Frameworks
+[ ] c- xUnit is a popular framework that can perform Cross Browser Testing, Data Driven Testing, Functional Testing and more importantly Unit Testing
+[ ] d- xUnit became popular after releasing PyUnit
+
+4. Which of the following is NOT an action that can be done via a test framework?
+[ ] a- Executing test scripts
+[ ] b- Reading test data
+[x] c- Producing logs from the application under test
+[ ] d- Generating test reports
+
+5. Which answer is false about TestNG?
+[ ] a- TestNG influenced JUnit to include more concepts in JUnit 4
+[x] b- TestNG was released before the xUnit family of frameworks
+[ ] c- TestNG can create test scripts, execute test scripts, generate test reports, and generate logs
+[ ] d- TestNG can perform data-driven testing, cross-browser testing, and integration testing

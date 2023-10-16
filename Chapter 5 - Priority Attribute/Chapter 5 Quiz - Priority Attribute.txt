@@ -1,0 +1,27 @@
+1. The purpose of the priority attribute is to determine the execution order of _______.
+[ ] a- DataProvider annotations
+[ ] b- Configuration annotations
+[x] c- Test methods
+[ ] d- BeforeTest methods
+
+2. In which order does TestNG execute test methods that contain a priority attribute?
+[x] a- Ascending numerical order
+[ ] b- Descending numerical order
+[ ] c- Ascending alphabetical order
+[ ] d- Descending alphabetical order
+
+3. In which order does TestNG execute test methods that do not contain a priority attribute?
+[ ] a- In random order
+[x] b- By method name in ascending order
+[ ] c- By method name in descending order
+[ ] d- In the order that the method appears within the class
+
+4. Only methods can be annotated as Test.
+[ ] a- True
+[x] b- False
+
+5. Which of the following must be true for methods to be considered tests within a class annotated as Test?
+[ ] a- The tests must also be annotated as Test
+[x] b- The tests must be public
+[ ] c- The tests must have the priority attribute
+[ ] d- The tests must be listed in the order they should be executed
